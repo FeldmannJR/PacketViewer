@@ -1,0 +1,12 @@
+[
+{
+  "modid": "packetviewer",
+  "name": "PacketViewer",
+  "description": "Vasculhando nos pacotes pra debug.",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Feldmann"]
+}
+]

@@ -17,7 +17,7 @@ public class LogUtils {
         if (format == null) {
             format = new SimpleDateFormat();
         }
-        oq = "[" + lastServer + "] (" + format.format(System.currentTimeMillis()) + ")";
+        oq = "[" + lastServer + "] (" + format.format(System.currentTimeMillis()) + ") " + oq;
         writeLine(saida, oq);
     }
 
